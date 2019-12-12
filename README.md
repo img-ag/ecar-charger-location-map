@@ -1,2 +1,8 @@
 # ecar-charger-location-map
-Sourcing E-Car charger locations / Creating a pretty map
+A fun project of the interactive marketing group data science team to display the allocation and density of e-car chargers across Germany.
+
+Data input: 
+- Population data from the Statistisches Bundesamt Deutschland
+- opencharge API
+
+
